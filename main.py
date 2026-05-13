@@ -166,3 +166,5 @@ def remove_patient(patient_id: int):
     return {
         "msg": "Patient not found"
     }
+
+
